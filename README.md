@@ -1,0 +1,29 @@
+### Netflix-Clone
+
+
+#### A React Netflix Clone project replicating the iconic streaming platform's interface. Powered by React, it offers a sleek, responsive design and key functionalities resembling Netflix. Experience seamless browsing, video playback, and user interaction, all in a familiar and engaging environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
